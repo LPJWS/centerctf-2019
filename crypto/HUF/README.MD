@@ -10,7 +10,8 @@ HUF
 
 Во второй непосредственно сам сжатый файл
 
-°º0'[în¢´óê¯~5ôÉ¦à±
-gy»÷×}á»Ç¾¯á0X²ÖjÇ6î¾µÜÝ?rl¬é0SL=b­ê9¦ûG5¯Q<aÜ¯ÚF¾ø 4sÏ"ø³6;f,¾JÚ$9·tÊ:3V0&øçEùÇ»èº÷Êi¨zÃºZ¿ dýw7L'>ÛÖþ°]iÍS_­yßÞþ3nk¹º~öÅµ5çPM2CÖòW²n¬ñüf´XóSY]qÅýjë-`º,dSå"'_ûèË[f+Ja}ý¬snèÜ
-
 Задача - написать распаковщик (пример приложен)
+
+После распаковки получаем текст-рыбу, в котором находится флаг
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco flag{huffmanlov3r} laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
